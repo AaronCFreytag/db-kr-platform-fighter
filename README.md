@@ -1,8 +1,9 @@
 ## Dependencies
 ### Building
 - Visual Studio 2017+
-- CMake 3.10+
+- CMake 3.15+
 - vcpkg 2020.04 or later
+- Vulkan SDK
 
 ### Used by project (automatically downloaded)
 - Boost
